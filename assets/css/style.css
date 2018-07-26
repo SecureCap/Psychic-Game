@@ -1,0 +1,9 @@
+body {
+    background: url("../images/ignasi_pattern_s.png");
+}
+
+#game {
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 20px;
+    text-align: center;
+}
